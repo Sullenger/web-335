@@ -1,3 +1,11 @@
+# ============================================
+# ; Title:  sullenger_calculator.py
+# ; Author: Professor Krasso
+# ; Date:  21 June 2019
+# ; Modified By: Jason Sullenger
+# ; Description: Calculator functions
+# ;===========================================
+
 first_name = "Jason"
 last_name = "Sullenger"
 
