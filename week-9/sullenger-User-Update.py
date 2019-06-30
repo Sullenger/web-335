@@ -20,7 +20,7 @@ db.users.update_one(
     {"employee_id": "2468246"},
     {
         "$set": {
-            "email": "ssimpsonUPDATED@fakeEmail.com"
+            "email": "jssullenger@my365.bellevue.edu"
         }
     }
 )
